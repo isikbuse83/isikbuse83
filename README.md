@@ -6,6 +6,8 @@
 - 💬 Ask me about **C#, .NET, MSSQL**
 ---
 
+
+
 ### 📫 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)](https://linkedin.com/in/isikbuse)
